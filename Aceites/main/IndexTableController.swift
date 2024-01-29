@@ -36,7 +36,7 @@ class IndexTableController: UITableViewController {
     fileprivate func getProductData(){
         // Get local Data
         let favoritos = getFavorites()
-        let domain: String  = UserDefaults.standard.string(forKey: "request_url") ?? ""
+        let domain: String  = "https://lubex.esmax.cl"
         let jsonUrlDomain = "\(domain)/webservice/product/?limit=6&random=1"
         
         if (favoritos != nil) {

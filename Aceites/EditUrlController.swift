@@ -19,7 +19,7 @@ class EditUrlController: UIViewController, UITextFieldDelegate{
         self.title = "Editar URL"
         self.view.backgroundColor = UIColor.white
         
-        let domain:String  = UserDefaults.standard.string(forKey: "request_url") ?? ""
+        let domain:String  = "https://lubex.esmax.cl"
         print(domain)
 
 

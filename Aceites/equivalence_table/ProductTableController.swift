@@ -20,7 +20,7 @@ class ProductTableController: UITableViewController {
     
     fileprivate func performDataFetch(){
         
-        let domain: String  = UserDefaults.standard.string(forKey: "request_url") ?? ""
+        let domain: String  = "https://lubex.esmax.cl"
         let jsonUrlDomain = "\(domain)/webservice/company/\(company_id)"
         
         putInLoadingState(table: self.tableView, view: self.view, lottieAnimationView:self.animationView )

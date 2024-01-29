@@ -3,7 +3,7 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 50;
+	objectVersion = 54;
 	objects = {
 
 /* Begin PBXBuildFile section */
@@ -12,7 +12,6 @@
 		2301347921842B2300EF65AE /* VehicleModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2301347821842B2300EF65AE /* VehicleModel.swift */; };
 		2301347B218438CD00EF65AE /* VehicleDatasheetModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2301347A218438CD00EF65AE /* VehicleDatasheetModel.swift */; };
 		2301347D21843A1C00EF65AE /* VehicleTypeModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2301347C21843A1C00EF65AE /* VehicleTypeModel.swift */; };
-		23015CEB217A7F8C0085373A /* models.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23015CEA217A7F8C0085373A /* models.swift */; };
 		23015CF1217A90D50085373A /* MainController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23015CF0217A90D50085373A /* MainController.swift */; };
 		230C3B7D217D227E006A25BB /* car_models.json in Resources */ = {isa = PBXBuildFile; fileRef = 230C3B7C217D227E006A25BB /* car_models.json */; };
 		23186F51217C1825000DAF2C /* VehicleManufactureTableController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23186F50217C1825000DAF2C /* VehicleManufactureTableController.swift */; };
@@ -52,6 +51,7 @@
 		23DBAE34217A7B5A00D4D97D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 23DBAE33217A7B5A00D4D97D /* Assets.xcassets */; };
 		23DBAE37217A7B5A00D4D97D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 23DBAE35217A7B5A00D4D97D /* LaunchScreen.storyboard */; };
 		23FF45892191D99700CE3FF6 /* FileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23FF45882191D99700CE3FF6 /* FileViewController.swift */; };
+		2C444E222B68093900D409D8 /* models.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C444E212B68093900D409D8 /* models.swift */; };
 		83D35CDE6C46059D170D7EA4 /* Pods_Aceites.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3CB334A3D9ECB6C40B42A177 /* Pods_Aceites.framework */; };
 /* End PBXBuildFile section */
 
@@ -61,7 +61,6 @@
 		2301347821842B2300EF65AE /* VehicleModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VehicleModel.swift; sourceTree = "<group>"; };
 		2301347A218438CD00EF65AE /* VehicleDatasheetModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VehicleDatasheetModel.swift; sourceTree = "<group>"; };
 		2301347C21843A1C00EF65AE /* VehicleTypeModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VehicleTypeModel.swift; sourceTree = "<group>"; };
-		23015CEA217A7F8C0085373A /* models.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = models.swift; path = "/Users/eddwinpaz/Desktop/proyecto-esmax/ios-esmax/Aceites/Aceites/models/models.swift"; sourceTree = "<absolute>"; };
 		23015CF0217A90D50085373A /* MainController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainController.swift; sourceTree = "<group>"; };
 		230C3B7C217D227E006A25BB /* car_models.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = car_models.json; sourceTree = "<group>"; };
 		23186F50217C1825000DAF2C /* VehicleManufactureTableController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VehicleManufactureTableController.swift; sourceTree = "<group>"; };
@@ -103,6 +102,7 @@
 		23DBAE36217A7B5A00D4D97D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		23DBAE38217A7B5A00D4D97D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		23FF45882191D99700CE3FF6 /* FileViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FileViewController.swift; sourceTree = "<group>"; };
+		2C444E212B68093900D409D8 /* models.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = models.swift; sourceTree = "<group>"; };
 		366A34931CD50F2F3B0D445C /* Pods-Aceites.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Aceites.release.xcconfig"; path = "Pods/Target Support Files/Pods-Aceites/Pods-Aceites.release.xcconfig"; sourceTree = "<group>"; };
 		3CB334A3D9ECB6C40B42A177 /* Pods_Aceites.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Aceites.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		5D93A1D8ECFFD300EF2875AB /* Pods-Aceites.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Aceites.debug.xcconfig"; path = "Pods/Target Support Files/Pods-Aceites/Pods-Aceites.debug.xcconfig"; sourceTree = "<group>"; };
@@ -246,7 +246,6 @@
 		23F24C4F21DBD2BE00A9D3EE /* models */ = {
 			isa = PBXGroup;
 			children = (
-				23015CEA217A7F8C0085373A /* models.swift */,
 				234953D6218F162200B823B2 /* loading.json */,
 				230C3B7C217D227E006A25BB /* car_models.json */,
 				234A5A6321822FEF0070C565 /* FaqModel.swift */,
@@ -259,6 +258,7 @@
 				2396C09D21F5EACB002EB6CF /* Favorites.swift */,
 				23CEACC22207460200872B73 /* Company.swift */,
 				235AD6182209075700C91759 /* fetchGeneric.swift */,
+				2C444E212B68093900D409D8 /* models.swift */,
 			);
 			name = models;
 			path = model;
@@ -375,19 +375,16 @@
 			buildActionMask = 2147483647;
 			files = (
 			);
-			inputPaths = (
-				"${SRCROOT}/Pods/Target Support Files/Pods-Aceites/Pods-Aceites-frameworks.sh",
-				"${BUILT_PRODUCTS_DIR}/SwiftyPlistManager/SwiftyPlistManager.framework",
-				"${BUILT_PRODUCTS_DIR}/lottie-ios/Lottie.framework",
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-Aceites/Pods-Aceites-frameworks-${CONFIGURATION}-input-files.xcfilelist",
 			);
 			name = "[CP] Embed Pods Frameworks";
-			outputPaths = (
-				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/SwiftyPlistManager.framework",
-				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/Lottie.framework",
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-Aceites/Pods-Aceites-frameworks-${CONFIGURATION}-output-files.xcfilelist",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-Aceites/Pods-Aceites-frameworks.sh\"\n";
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-Aceites/Pods-Aceites-frameworks.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 /* End PBXShellScriptBuildPhase section */
@@ -431,8 +428,8 @@
 				234B1963218B152500377D23 /* IndexTableController.swift in Sources */,
 				2337EAC221991A7B00A3BF2A /* UILabel.swift in Sources */,
 				234953DA218FEE5300B823B2 /* ListDatasheetTableController.swift in Sources */,
-				23015CEB217A7F8C0085373A /* models.swift in Sources */,
 				236E6404218664E300ED461E /* ProductModel.swift in Sources */,
+				2C444E222B68093900D409D8 /* models.swift in Sources */,
 				233757FB2184EBDD00B91FA6 /* UIScrollView.swift in Sources */,
 				236E63F921858D5E00ED461E /* MotorTypeModel.swift in Sources */,
 				236E63FF2186647400ED461E /* UIViewControllerExtension.swift in Sources */,
@@ -576,17 +573,24 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = QB42G25ZS3;
 				INFOPLIST_FILE = Aceites/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.lifestyle";
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
+				MARKETING_VERSION = 1.0.0;
 				PRODUCT_BUNDLE_IDENTIFIER = com.Petrobras;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SUPPORTS_XR_DESIGNED_FOR_IPHONE_IPAD = NO;
 				SWIFT_VERSION = 4.2;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
@@ -596,17 +600,24 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = QB42G25ZS3;
 				INFOPLIST_FILE = Aceites/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.lifestyle";
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
+				MARKETING_VERSION = 1.0.0;
 				PRODUCT_BUNDLE_IDENTIFIER = com.Petrobras;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SUPPORTS_XR_DESIGNED_FOR_IPHONE_IPAD = NO;
 				SWIFT_VERSION = 4.2;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
 		};

@@ -60,7 +60,7 @@ class VehicleManufactureTableController: UITableViewController, UISearchBarDeleg
     fileprivate func performFetchData(){
         
         let category: String = car.id
-        let domain: String  = UserDefaults.standard.string(forKey: "request_url") ?? ""
+        let domain: String  = "https://lubex.esmax.cl"
         let jsonUrlDomain = "\(domain)/webservice/product/filter/?category=\(category)"
         
         putInLoadingState(table: self.tableView, view: self.view, lottieAnimationView:self.animationView )

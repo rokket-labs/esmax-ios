@@ -22,7 +22,7 @@ class VehicleTypeTableController: UITableViewController {
     
     fileprivate func performDataFetch(){
         
-        let domain: String  = UserDefaults.standard.string(forKey: "request_url") ?? ""
+        let domain: String  = "https://lubex.esmax.cl"
         let jsonUrlDomain = "\(domain)/webservice/product/filter/?category=\(categoryID)&manufacture=\(manufactureID)&model=\(modelID)"
         
         putInLoadingState(table: self.tableView, view: self.view, lottieAnimationView:self.animationView )
