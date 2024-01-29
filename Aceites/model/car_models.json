@@ -1,0 +1,600 @@
+{
+    "status": true,
+    "description": "Vehicle Manufacture list",
+    "manufacture": [
+        {
+            "unique_id": "81a8f2c3-3455-47b6-bc0d-3ee0dd01d9e6",
+            "brand": "Abarth",
+            "vehicle_category__category": "Car",
+            "remote_code": "913163"
+        },
+        {
+            "unique_id": "319c10d1-0cf3-477e-a584-0afd332c6134",
+            "brand": "Alfa Romeo",
+            "vehicle_category__category": "Car",
+            "remote_code": "910001"
+        },
+        {
+            "unique_id": "c0a8dbb2-7817-42bd-9620-399d0f06f48a",
+            "brand": "Alpine",
+            "vehicle_category__category": "Car",
+            "remote_code": "913186"
+        },
+        {
+            "unique_id": "9e2eb429-eac2-428b-8eaf-916473dd9d90",
+            "brand": "Aro",
+            "vehicle_category__category": "Car",
+            "remote_code": "910066"
+        },
+        {
+            "unique_id": "3d3e7719-a687-4214-a928-9f982a69965b",
+            "brand": "Asia",
+            "vehicle_category__category": "Car",
+            "remote_code": "910071"
+        },
+        {
+            "unique_id": "e58bd39a-d7e6-453b-bfad-9d28ddc5fb7e",
+            "brand": "Aston Martin",
+            "vehicle_category__category": "Car",
+            "remote_code": "910002"
+        },
+        {
+            "unique_id": "bcb0c9b5-b9dc-4b92-a280-b3da00957f12",
+            "brand": "Audi",
+            "vehicle_category__category": "Car",
+            "remote_code": "910052"
+        },
+        {
+            "unique_id": "347248f4-eb6c-43fb-ab49-a87ff84abfb4",
+            "brand": "Austin",
+            "vehicle_category__category": "Car",
+            "remote_code": "910003"
+        },
+        {
+            "unique_id": "b1360cab-a867-4226-969b-734178e5dd8f",
+            "brand": "Bentley",
+            "vehicle_category__category": "Car",
+            "remote_code": "910004"
+        },
+        {
+            "unique_id": "2577f201-4228-40f9-95d9-5c5da3c4c837",
+            "brand": "BMW",
+            "vehicle_category__category": "Car",
+            "remote_code": "910005"
+        },
+        {
+            "unique_id": "e414430c-f4b6-43a3-a52e-da3a6d5b6074",
+            "brand": "Brabus",
+            "vehicle_category__category": "Car",
+            "remote_code": "910072"
+        },
+        {
+            "unique_id": "76142adf-d865-4666-9342-7c14e67e45b1",
+            "brand": "Bugatti",
+            "vehicle_category__category": "Car",
+            "remote_code": "913154"
+        },
+        {
+            "unique_id": "b85bdc04-be01-41c6-9d78-ef62d41ce3c6",
+            "brand": "Buick (USA)",
+            "vehicle_category__category": "Car",
+            "remote_code": "910007"
+        },
+        {
+            "unique_id": "54f5a5b4-0800-45d6-a213-ff00c06b2307",
+            "brand": "Cadillac",
+            "vehicle_category__category": "Car",
+            "remote_code": "913413"
+        },
+        {
+            "unique_id": "efb496d3-8a4a-4329-bc94-a2422e1d5ab6",
+            "brand": "Chery",
+            "vehicle_category__category": "Car",
+            "remote_code": "913033"
+        },
+        {
+            "unique_id": "e7d03938-4a1d-4a37-af07-12b8b09c07eb",
+            "brand": "Chevrolet (Daewoo)",
+            "vehicle_category__category": "Car",
+            "remote_code": "910070"
+        },
+        {
+            "unique_id": "3f87c199-25df-42f8-a085-0b81acfb173e",
+            "brand": "Chrysler",
+            "vehicle_category__category": "Car",
+            "remote_code": "913535"
+        },
+        {
+            "unique_id": "4b7c8561-8deb-4700-bf69-6bd22150bb7c",
+            "brand": "Citro\u00ebn",
+            "vehicle_category__category": "Car",
+            "remote_code": "910010"
+        },
+        {
+            "unique_id": "8b744747-011b-493e-ad28-6424bb6117f1",
+            "brand": "Dacia",
+            "vehicle_category__category": "Car",
+            "remote_code": "910056"
+        },
+        {
+            "unique_id": "92a66af1-98fa-4b2f-85f1-1519a023fb81",
+            "brand": "Daihatsu",
+            "vehicle_category__category": "Car",
+            "remote_code": "910048"
+        },
+        {
+            "unique_id": "23f1a212-d035-4964-8200-b08be8ce25aa",
+            "brand": "Daimler",
+            "vehicle_category__category": "Car",
+            "remote_code": "910011"
+        },
+        {
+            "unique_id": "466867f0-eee7-47b1-a74a-d5bb477b2ed7",
+            "brand": "Dodge",
+            "vehicle_category__category": "Car",
+            "remote_code": "913541"
+        },
+        {
+            "unique_id": "75b3cc34-3d7a-4cc7-b3ba-a99d54e2177e",
+            "brand": "DR",
+            "vehicle_category__category": "Car",
+            "remote_code": "913218"
+        },
+        {
+            "unique_id": "d8523564-32ea-4a69-8206-6e733e58d385",
+            "brand": "DS",
+            "vehicle_category__category": "Car",
+            "remote_code": "913585"
+        },
+        {
+            "unique_id": "710935db-73ad-4d9b-a90a-3938ffc69fed",
+            "brand": "Ferrari",
+            "vehicle_category__category": "Car",
+            "remote_code": "910013"
+        },
+        {
+            "unique_id": "60ea6ee8-f6f3-4d06-8283-5f2b0390bd48",
+            "brand": "Fiat",
+            "vehicle_category__category": "Car",
+            "remote_code": "910014"
+        },
+        {
+            "unique_id": "f6410529-f8a0-41bf-bd8e-773f1fc0eeac",
+            "brand": "Fisker",
+            "vehicle_category__category": "Car",
+            "remote_code": "913285"
+        },
+        {
+            "unique_id": "fa20ca71-965b-4ad6-b244-6122340b1a09",
+            "brand": "Ford",
+            "vehicle_category__category": "Car",
+            "remote_code": "910015"
+        },
+        {
+            "unique_id": "4369ef09-b737-48cf-a445-a353174f48e2",
+            "brand": "Ford (USA)",
+            "vehicle_category__category": "Car",
+            "remote_code": "910063"
+        },
+        {
+            "unique_id": "c76945d4-655e-41d1-ae4d-4337ab4b1560",
+            "brand": "FSO",
+            "vehicle_category__category": "Car",
+            "remote_code": "910059"
+        },
+        {
+            "unique_id": "683dd4c3-60e4-40f2-a151-713d2a14f856",
+            "brand": "Galloper",
+            "vehicle_category__category": "Car",
+            "remote_code": "910053"
+        },
+        {
+            "unique_id": "122700ca-fa06-4422-bbcd-9fa971bae724",
+            "brand": "GAZ",
+            "vehicle_category__category": "Car",
+            "remote_code": "913148"
+        },
+        {
+            "unique_id": "c5f7a26c-9940-4b29-a978-435f703f6af6",
+            "brand": "GMC (USA)",
+            "vehicle_category__category": "Car",
+            "remote_code": "913452"
+        },
+        {
+            "unique_id": "117b8481-4ff0-4c6a-95fe-16d11679720a",
+            "brand": "Honda",
+            "vehicle_category__category": "Car",
+            "remote_code": "910049"
+        },
+        {
+            "unique_id": "ca3721e7-d685-4830-848b-845c2414043b",
+            "brand": "Hummer (USA)",
+            "vehicle_category__category": "Car",
+            "remote_code": "911949"
+        },
+        {
+            "unique_id": "2b7de5ec-3662-47c8-8556-90291750e8b9",
+            "brand": "Hyundai",
+            "vehicle_category__category": "Car",
+            "remote_code": "910057"
+        },
+        {
+            "unique_id": "e828bdab-7f9a-453d-824c-923c640b0468",
+            "brand": "Infiniti",
+            "vehicle_category__category": "Car",
+            "remote_code": "913586"
+        },
+        {
+            "unique_id": "9db606e5-2230-40f0-8d76-bf375e479a79",
+            "brand": "Isuzu",
+            "vehicle_category__category": "Car",
+            "remote_code": "910016"
+        },
+        {
+            "unique_id": "c57064bb-b659-43fd-a06d-804d6a907143",
+            "brand": "Iveco",
+            "vehicle_category__category": "Car",
+            "remote_code": "910079"
+        },
+        {
+            "unique_id": "2d0a7140-314b-4180-a3af-7d8461a5c676",
+            "brand": "Jaguar",
+            "vehicle_category__category": "Car",
+            "remote_code": "910017"
+        },
+        {
+            "unique_id": "22d37739-4335-420f-becb-6bb3b7010b54",
+            "brand": "Jeep",
+            "vehicle_category__category": "Car",
+            "remote_code": "910058"
+        },
+        {
+            "unique_id": "09411630-49f2-4d9e-9297-da0e68df7d9c",
+            "brand": "Kia",
+            "vehicle_category__category": "Car",
+            "remote_code": "910064"
+        },
+        {
+            "unique_id": "32f26704-d0dd-4fd6-9e0e-f189098d4edc",
+            "brand": "Lada (VAZ / Zhiguli)",
+            "vehicle_category__category": "Car",
+            "remote_code": "910054"
+        },
+        {
+            "unique_id": "f3528bb9-cfd3-4cdf-bd79-6d2eab142772",
+            "brand": "Lagonda",
+            "vehicle_category__category": "Car",
+            "remote_code": "913582"
+        },
+        {
+            "unique_id": "574977df-9e60-4daf-87ef-f52edb951bf3",
+            "brand": "Lamborghini",
+            "vehicle_category__category": "Car",
+            "remote_code": "913238"
+        },
+        {
+            "unique_id": "f6127ac1-1df1-4dfa-9b01-50ca9cbafe92",
+            "brand": "Lancia",
+            "vehicle_category__category": "Car",
+            "remote_code": "910018"
+        },
+        {
+            "unique_id": "690415ea-9de4-464f-86a7-6ff9cdfd855b",
+            "brand": "Land Rover",
+            "vehicle_category__category": "Car",
+            "remote_code": "910019"
+        },
+        {
+            "unique_id": "501897c7-8523-45b0-aa5a-a3c35f9c392c",
+            "brand": "Landwind",
+            "vehicle_category__category": "Car",
+            "remote_code": "913008"
+        },
+        {
+            "unique_id": "aad03560-f526-4960-a053-28bc8e253013",
+            "brand": "Lexus",
+            "vehicle_category__category": "Car",
+            "remote_code": "910061"
+        },
+        {
+            "unique_id": "fef40ca0-e617-4d40-a74f-3bf4289eaca9",
+            "brand": "Lincoln",
+            "vehicle_category__category": "Car",
+            "remote_code": "910020"
+        },
+        {
+            "unique_id": "46730863-2afc-4402-b547-3fc431d3788a",
+            "brand": "Lotus",
+            "vehicle_category__category": "Car",
+            "remote_code": "910021"
+        },
+        {
+            "unique_id": "2a1dda03-70a7-4608-b56f-99452af03685",
+            "brand": "Mahindra",
+            "vehicle_category__category": "Car",
+            "remote_code": "913478"
+        },
+        {
+            "unique_id": "7eb710d7-cabc-4deb-b282-1a7edb904377",
+            "brand": "Maserati",
+            "vehicle_category__category": "Car",
+            "remote_code": "910039"
+        },
+        {
+            "unique_id": "ca65453d-9bbb-4aa3-8ae5-f159d187e2de",
+            "brand": "Maybach",
+            "vehicle_category__category": "Car",
+            "remote_code": "912989"
+        },
+        {
+            "unique_id": "4c287535-8897-4a5d-b2e9-935581ea8c92",
+            "brand": "Mazda",
+            "vehicle_category__category": "Car",
+            "remote_code": "910043"
+        },
+        {
+            "unique_id": "56b7af75-6d5a-4b8f-a0ed-170dd068ca89",
+            "brand": "Mega",
+            "vehicle_category__category": "Car",
+            "remote_code": "910068"
+        },
+        {
+            "unique_id": "04ab5d72-5e77-4f28-8312-2645fcefd83a",
+            "brand": "Mercedes-Benz",
+            "vehicle_category__category": "Car",
+            "remote_code": "910022"
+        },
+        {
+            "unique_id": "81551377-5f7b-4517-88b5-69e65c658c55",
+            "brand": "Mercury",
+            "vehicle_category__category": "Car",
+            "remote_code": "910023"
+        },
+        {
+            "unique_id": "281b89a2-4993-41d1-907f-510405e7f668",
+            "brand": "Metrocab",
+            "vehicle_category__category": "Car",
+            "remote_code": "911953"
+        },
+        {
+            "unique_id": "6bec5fb4-2bf8-415f-8ba2-f3ad498c8533",
+            "brand": "MG",
+            "vehicle_category__category": "Car",
+            "remote_code": "910024"
+        },
+        {
+            "unique_id": "39cba7ee-870b-4c2f-80d9-15a049b9c56e",
+            "brand": "MINI",
+            "vehicle_category__category": "Car",
+            "remote_code": "910038"
+        },
+        {
+            "unique_id": "d6af9092-2f56-47a3-bb84-b8fba005526d",
+            "brand": "Mitsubishi",
+            "vehicle_category__category": "Car",
+            "remote_code": "910055"
+        },
+        {
+            "unique_id": "ebe6091f-1138-4dbd-98a5-587414f64d44",
+            "brand": "Morgan",
+            "vehicle_category__category": "Car",
+            "remote_code": "910012"
+        },
+        {
+            "unique_id": "558bf447-5711-466f-8b23-06a9e21f333f",
+            "brand": "Moskvich",
+            "vehicle_category__category": "Car",
+            "remote_code": "913151"
+        },
+        {
+            "unique_id": "ba70d4e1-a144-4a32-a257-fe183fe9d658",
+            "brand": "Nissan",
+            "vehicle_category__category": "Car",
+            "remote_code": "910042"
+        },
+        {
+            "unique_id": "02cfa4ce-d8bb-4bf2-879f-aa9adbd24df3",
+            "brand": "Noble",
+            "vehicle_category__category": "Car",
+            "remote_code": "912997"
+        },
+        {
+            "unique_id": "f56b145e-a47c-4ef9-ab17-8808dea9d369",
+            "brand": "Oldsmobile (USA)",
+            "vehicle_category__category": "Car",
+            "remote_code": "913272"
+        },
+        {
+            "unique_id": "d47d2bc3-4a35-4966-8e2d-4571ddf6e218",
+            "brand": "Opel",
+            "vehicle_category__category": "Car",
+            "remote_code": "910025"
+        },
+        {
+            "unique_id": "f9cd4797-e22e-4c66-b991-40928aea9d6e",
+            "brand": "Perodua",
+            "vehicle_category__category": "Car",
+            "remote_code": "910026"
+        },
+        {
+            "unique_id": "f73634f9-e830-48f9-847a-c799e8f09328",
+            "brand": "Peugeot",
+            "vehicle_category__category": "Car",
+            "remote_code": "910027"
+        },
+        {
+            "unique_id": "a4c69865-54b4-4f59-82d6-ea26c986f1b4",
+            "brand": "Pontiac",
+            "vehicle_category__category": "Car",
+            "remote_code": "913534"
+        },
+        {
+            "unique_id": "4e1c5675-2ef4-4820-a4f7-d8438a627e17",
+            "brand": "Porsche",
+            "vehicle_category__category": "Car",
+            "remote_code": "910029"
+        },
+        {
+            "unique_id": "2e97668e-5c66-4849-b4a7-6b4b28ed7f2e",
+            "brand": "Proton",
+            "vehicle_category__category": "Car",
+            "remote_code": "910065"
+        },
+        {
+            "unique_id": "534ccffd-8466-459b-bc95-cd0a6cdf6ac8",
+            "brand": "Renault",
+            "vehicle_category__category": "Car",
+            "remote_code": "910030"
+        },
+        {
+            "unique_id": "600bb2dc-d1c4-467e-9c86-7ca1e71e0690",
+            "brand": "Rolls-Royce",
+            "vehicle_category__category": "Car",
+            "remote_code": "910031"
+        },
+        {
+            "unique_id": "d1914475-5b8f-4317-9f75-52df99a71d82",
+            "brand": "Rover",
+            "vehicle_category__category": "Car",
+            "remote_code": "910032"
+        },
+        {
+            "unique_id": "cd68b46e-ea37-4ab0-9087-49c6504097aa",
+            "brand": "Saab",
+            "vehicle_category__category": "Car",
+            "remote_code": "910033"
+        },
+        {
+            "unique_id": "cbc8461c-134c-4c0c-accd-1dee1901a9d4",
+            "brand": "Samsung",
+            "vehicle_category__category": "Car",
+            "remote_code": "913187"
+        },
+        {
+            "unique_id": "acc039fe-ad04-461f-8944-ad8d061a737e",
+            "brand": "Santana",
+            "vehicle_category__category": "Car",
+            "remote_code": "910069"
+        },
+        {
+            "unique_id": "c01deb44-513a-4546-ad61-3d562274444a",
+            "brand": "Seat",
+            "vehicle_category__category": "Car",
+            "remote_code": "910045"
+        },
+        {
+            "unique_id": "5a0b00d2-b261-4084-b9a2-6b9f83cc969b",
+            "brand": "Skoda",
+            "vehicle_category__category": "Car",
+            "remote_code": "910034"
+        },
+        {
+            "unique_id": "1c273d1b-aba6-4a09-96c5-a7da42c1551a",
+            "brand": "smart",
+            "vehicle_category__category": "Car",
+            "remote_code": "910044"
+        },
+        {
+            "unique_id": "7c79b023-c71c-405a-958e-2422baa14308",
+            "brand": "Spyker Cars",
+            "vehicle_category__category": "Car",
+            "remote_code": "913290"
+        },
+        {
+            "unique_id": "a165457e-823c-44a0-b7f4-4eeb89347626",
+            "brand": "Ssangyong",
+            "vehicle_category__category": "Car",
+            "remote_code": "910041"
+        },
+        {
+            "unique_id": "47ef0b10-7de0-4784-bc59-33ad245bca4a",
+            "brand": "Subaru",
+            "vehicle_category__category": "Car",
+            "remote_code": "910047"
+        },
+        {
+            "unique_id": "4a8fef85-1bd6-4286-9533-f7bbb26ab1d3",
+            "brand": "Suzuki",
+            "vehicle_category__category": "Car",
+            "remote_code": "910050"
+        },
+        {
+            "unique_id": "a19a3aa4-b250-46f5-abf6-8f2c504bd1ad",
+            "brand": "Tagaz",
+            "vehicle_category__category": "Car",
+            "remote_code": "913172"
+        },
+        {
+            "unique_id": "012d280a-4916-4ff3-bb6d-9866ef54bf43",
+            "brand": "Tata",
+            "vehicle_category__category": "Car",
+            "remote_code": "912959"
+        },
+        {
+            "unique_id": "6d5d0c83-7067-41bd-96e0-c4dae405b024",
+            "brand": "Tesla",
+            "vehicle_category__category": "Car",
+            "remote_code": "913069"
+        },
+        {
+            "unique_id": "c7511277-df1a-4c21-8339-cad6ec3f0db4",
+            "brand": "Th!nk",
+            "vehicle_category__category": "Car",
+            "remote_code": "913155"
+        },
+        {
+            "unique_id": "4e0d4e7f-47c0-4c62-9813-d8ed21b93a96",
+            "brand": "The London Taxi Company",
+            "vehicle_category__category": "Car",
+            "remote_code": "911952"
+        },
+        {
+            "unique_id": "eddab6a4-33fc-40a9-98af-5759ae3644ad",
+            "brand": "Toyota",
+            "vehicle_category__category": "Car",
+            "remote_code": "910040"
+        },
+        {
+            "unique_id": "17d09d4a-89d3-408a-86d9-1616cd01b914",
+            "brand": "TVR",
+            "vehicle_category__category": "Car",
+            "remote_code": "910046"
+        },
+        {
+            "unique_id": "1cdd5ef1-fa22-4291-aab1-235b5c181c43",
+            "brand": "UAZ",
+            "vehicle_category__category": "Car",
+            "remote_code": "913153"
+        },
+        {
+            "unique_id": "331130da-8822-40d1-bd88-d275c11a6aba",
+            "brand": "Vauxhall",
+            "vehicle_category__category": "Car",
+            "remote_code": "910035"
+        },
+        {
+            "unique_id": "7fd05397-5d33-45b4-9134-efef9e5ad20f",
+            "brand": "Vencer",
+            "vehicle_category__category": "Car",
+            "remote_code": "913289"
+        },
+        {
+            "unique_id": "9cb83042-f24c-4295-b097-18bfd47dca9d",
+            "brand": "Volkswagen (VW)",
+            "vehicle_category__category": "Car",
+            "remote_code": "910036"
+        },
+        {
+            "unique_id": "5b4452d6-f4e0-4a8e-9039-ba0062816044",
+            "brand": "Volvo",
+            "vehicle_category__category": "Car",
+            "remote_code": "910037"
+        },
+        {
+            "unique_id": "f2759c85-42e9-4f9c-bd99-251ed1e34d0c",
+            "brand": "ZAZ",
+            "vehicle_category__category": "Car",
+            "remote_code": "913152"
+        }
+    ]
+}
